@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cruise_lainer/static/css/main.0059eed3.css",
+    "main.js": "/Cruise_lainer/static/js/main.c65e9df7.js",
+    "static/media/1.svg": "/Cruise_lainer/static/media/1.c6e57378e6198a5cdaca1b6011336bca.svg",
+    "static/media/0.svg": "/Cruise_lainer/static/media/0.3d72526a302b4d75e7bf60c04501263a.svg",
+    "static/media/3.svg": "/Cruise_lainer/static/media/3.fb69b3282a0982868f2c11a9c5d98f4d.svg",
+    "static/media/2.svg": "/Cruise_lainer/static/media/2.2e5247bcb29023889a4533e88ccd3dcc.svg",
+    "index.html": "/Cruise_lainer/index.html",
+    "main.0059eed3.css.map": "/Cruise_lainer/static/css/main.0059eed3.css.map",
+    "main.c65e9df7.js.map": "/Cruise_lainer/static/js/main.c65e9df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0059eed3.css",
+    "static/js/main.c65e9df7.js"
+  ]
+}
