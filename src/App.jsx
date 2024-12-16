@@ -19,8 +19,8 @@ export default function App() {
           {mapImage: floor2Image, ...floor2},
           {mapImage: floor3Image, ...floor3},
         ]}
-        initialStart={113}
-        initialEnd={177}
+        initialStart={114}
+        initialEnd={166}
       />
     </div>
   );
